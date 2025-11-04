@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fPNqLH0aeag=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MJO-MF-011\\Source\\Repos\\LibraryManagementSystem-API\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MJO-MF-011\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.304\\microsoft.net.sdk.compilers.toolset.9.0.304.nupkg.sha512",
+    "C:\\Users\\MJO-MF-011\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.19\\microsoft.windowsdesktop.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\MJO-MF-011\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.19\\microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\MJO-MF-011\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.19\\microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
